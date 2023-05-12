@@ -185,9 +185,6 @@ for (item of buttons) {
 ![servercal](https://github.com/Jayabharathi3/standard-calculator/assets/120367796/d69d3629-4962-4da7-8623-fa2a18fb0f94)
 
 
-## HTML VALIDATOR:
-
-
 
 
 ## Result:
