@@ -32,11 +32,11 @@ Publish the website in the given URL.
 
 
 ## PROGRAM :
-```
-
-cal.html
 
 
+## cal.html
+
+```css
 <!DOCTYPE html>
 <html lang="en">
 
@@ -93,10 +93,10 @@ cal.html
 <script src="/static/js/index.js"></script>
 
 </html>
+```
 
-
-style.css
-
+## style.css
+```css
 .container{
     text-align: center;
     margin-top:23px
@@ -184,6 +184,9 @@ for (item of buttons) {
 
 ![servercal](https://github.com/Jayabharathi3/standard-calculator/assets/120367796/d69d3629-4962-4da7-8623-fa2a18fb0f94)
 
+## HTML VALIDATOR:
+
+![htmlcal](https://github.com/Jayabharathi3/standard-calculator/assets/120367796/acf21e46-5298-4c88-b5b9-9ef2f8160f8c)
 
 
 
